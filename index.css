@@ -244,7 +244,7 @@ img{
 
    height: 800px;
 
-   background: #3E2723;
+   background: url(cover2.jpeg);
 
 
 
@@ -262,27 +262,11 @@ img{
 
     margin-bottom: 80px;
 
-    background: #5D4037;
-
 
 
 }
 
-.box1, .box2, .box3 {
 
-    background-color: black; 
-
-    padding: 20px;
-
-    width: 300px;
-
-    border-radius: 10px;
-
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-
-    color: #FFFFFF; 
-
-}
 
 
 
@@ -302,7 +286,7 @@ img{
 
 .box1{
 
-    background-color: #CD853F;
+    background: rgba(205, 133,63, 0.8);
 
     padding: 20px;
 
@@ -330,13 +314,13 @@ img{
 
 .box1 p{
 
-    color: #2E2E2E;
+    color: black;
 
 }
 
 .box2{
 
-    background-color: #CD853F;
+    background: rgba(205, 133,63, 0.8);
 
     border: 3px solid sienna;
 
@@ -364,13 +348,13 @@ img{
 
 .box2 p{
 
-    color: #2E2E2E;
+    color: black;
 
 }
 
 .box3{
 
-    background-color: #CD853F;
+    background: rgba(205, 133,63, 0.8);
 
     border: 3px solid sienna;
 
@@ -865,7 +849,6 @@ footer p{
 
 
 }
-
 
 
 
